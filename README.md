@@ -18,7 +18,7 @@ This is a **Landing Page** created as part of the Oasis Infobyte Web Development
 
 ## 🔗 Live Demo
 
-[Live](https://patelkrishna1922.github.io/OIBSIP_Task1/)
+👉 [Click here to view the live site](https://patelkrishna1922.github.io/OIBSIP_Task1/)
 
 ## 📄 Project Description
 
