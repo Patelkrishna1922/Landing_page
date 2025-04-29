@@ -1,6 +1,17 @@
 # OIBSIP_Task1
 Oasis Infobyte Internship Task1
 
+## 🌐 About the Internship
+
+This project is a part of the **Web Development Internship Program** offered by [Oasis Infobyte](https://oasisinfobyte.com/).  
+The internship provides hands-on experience in front-end web development through real-world tasks and projects.  
+As part of **Level 1**, I completed this task:
+  
+- Landing Page (this project)  
+
+The program helped me strengthen my skills in HTML, CSS, JavaScript, and responsive web design.
+
+
 # Task 1 - Landing Page
 
 This is a **Landing Page** created as part of the Oasis Infobyte Web Development Virtual Internship Program. The page promotes natural skincare products under the brand **Hyphen**.
