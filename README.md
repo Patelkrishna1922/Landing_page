@@ -2,7 +2,7 @@ Landing Page
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://patelkrishna1922.github.io/OIBSIP_Task1/)
+👉 [Click here to view the live site](https://patelkrishna1922.github.io/Landing_page/)
 
 ## 📄 Project Description
 
